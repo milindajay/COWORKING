@@ -371,7 +371,7 @@ body {
     vertical-align: baseline;
     font-size: 14px;
     line-height: 25px;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: normal;
     color: #7e8082;
     background-color: #fff;
@@ -909,7 +909,7 @@ support for no js
 
 .tp-caption.dark-light-32 {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 32px;
     line-height: 32px;
     font-weight: 300;
@@ -917,7 +917,7 @@ support for no js
 
 .tp-caption.dark-black-100 {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 100px;
     line-height: 100px;
     font-weight: 900;
@@ -925,7 +925,7 @@ support for no js
 
 .tp-caption.dark-light-100 {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 100px;
     line-height: 100px;
     font-weight: 300;
@@ -951,7 +951,7 @@ support for no js
 }
 
 .light-73-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 73px;
     line-height: 73px;
     font-weight: 300;
@@ -960,7 +960,7 @@ support for no js
 }
 
 .light-72-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 72px;
     line-height: 72px;
     font-weight: 300;
@@ -969,7 +969,7 @@ support for no js
 }
 
 .light-70-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 70px;
     line-height: 70px;
     font-weight: 300;
@@ -978,7 +978,7 @@ support for no js
 }
 
 .light-69-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 69px;
     line-height: 69px;
     font-weight: 300;
@@ -987,7 +987,7 @@ support for no js
 }
 
 .light-60-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 60px;
     line-height: 60px;
     font-weight: 300;
@@ -996,7 +996,7 @@ support for no js
 }
 
 .light-60 {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 60px;
     line-height: 60px;
     font-weight: 300;
@@ -1004,7 +1004,7 @@ support for no js
 }
 
 .light-56-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 56px;
     line-height: 56px;
     font-weight: 300;
@@ -1013,7 +1013,7 @@ support for no js
 }
 
 .light-52-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 54px;
     line-height: 56px;
     font-weight: 300;
@@ -1022,7 +1022,7 @@ support for no js
 }
 
 .light-50-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 50px;
     line-height: 64px;
     font-weight: 300;
@@ -1031,7 +1031,7 @@ support for no js
 }
 
 .light-42-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 42px;
     line-height: 46px;
     font-weight: 300;
@@ -1040,7 +1040,7 @@ support for no js
 }
 
 .norm-42-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 42px;
     line-height: 46px;
     letter-spacing: 2px;
@@ -1048,7 +1048,7 @@ support for no js
 }
 
 .norm-40-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 40px;
     line-height: 46px;
     letter-spacing: 2px;
@@ -1056,7 +1056,7 @@ support for no js
 }
 
 .norm-16-wide {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 16px;
     line-height: 18px;
     font-weight: 300;
@@ -1065,7 +1065,7 @@ support for no js
 }
 
 .norm-16 {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 16px;
     line-height: 25px;
     font-weight: 400;
@@ -1150,7 +1150,7 @@ support for no js
 
 .tp-caption.dark-light-61 {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 61px;
     font-weight: 300;
     letter-spacing: 7px;
@@ -1158,7 +1158,7 @@ support for no js
 
 .tp-caption.dark-black-63 {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 63px;
     font-weight: 900;
     letter-spacing: 5px;
@@ -1166,7 +1166,7 @@ support for no js
 
 .tp-caption.dark-light-54 {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 54px;
     font-weight: 300;
     letter-spacing: 7px;
@@ -1177,7 +1177,7 @@ support for no js
 
 .tp-caption.dark-light-60 {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 75px;
     line-height: 85px;
     font-weight: 300;
@@ -1185,7 +1185,7 @@ support for no js
 
 .tp-caption.dark-black-60 {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 75px;
     line-height: 85px;
     font-weight: 900;
@@ -1287,7 +1287,7 @@ video {
 
 .title-fs-60 {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 60px;
     line-height: 60px;
     font-weight: 300;
@@ -1316,7 +1316,7 @@ video {
 
 .fes1-box h3 {
     color: #4b4e53;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: bold;
     font-size: 18px;
     margin-bottom: 10px;
@@ -1361,7 +1361,7 @@ video {
 
 .title-fs-45 {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 45px;
     line-height: 45px;
     font-weight: 300;
@@ -1417,7 +1417,7 @@ video {
 
 .fes4-title-cont h3,
 .title-18 {
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     color: #4b4e53;
     font-weight: 300;
     font-size: 18px;
@@ -1427,7 +1427,7 @@ video {
 .section-title {
     margin: 0;
     padding: 22px 25px 24px 25px;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 300;
     font-size: 30px;
     line-height: 36px;
@@ -1438,7 +1438,7 @@ video {
 .section-title-2 {
     margin: 0;
     padding: 25px 25px 27px 25px;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 300;
     font-size: 30px;
     line-height: 30px;
@@ -1448,7 +1448,7 @@ video {
 .section-title-3 {
     margin: 0;
     padding: 15px 20px 17px 23px;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 300;
     font-size: 23px;
     font-weight: 400;
@@ -1645,7 +1645,7 @@ video {
 
 .fes5-box h3 {
     color: #4b4e53;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: bold;
     font-size: 18px;
     margin-bottom: 7px;
@@ -1663,7 +1663,7 @@ video {
 
 .fes6-box h3 {
     color: #4b4e53;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: normal;
     font-size: 18px;
     margin: 0;
@@ -1701,7 +1701,7 @@ video {
 
 .fes7-box h3 {
     color: #4b4e53;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: bold;
     font-size: 16px;
     margin-bottom: 5px;
@@ -1810,7 +1810,7 @@ video {
 }
 
 .fes8-title-cont h3 {
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     color: #4b4e53;
     font-weight: normal;
     font-size: 16px;
@@ -1987,7 +1987,7 @@ table.shopping-cart-table tr td {
 .shop-dep-text-cont h4 {
     margin: 0;
     padding: 0;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 .shop-dep-item a {
@@ -2240,7 +2240,7 @@ table.shopping-cart-table tr td {
 
 .title-fs-45-wide {
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 45px;
     line-height: 58px;
     font-weight: 300;
@@ -2449,7 +2449,7 @@ table.shopping-cart-table tr td {
 
 .port-title-cont h3 {
     margin: 0;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 16px;
     line-height: 24px;
     font-weight: 600;
@@ -2496,7 +2496,7 @@ table.shopping-cart-table tr td {
     padding-top: 40px;
     padding-bottom: 37px;
     background: #eee;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 18px;
     line-height: 18px;
     font-weight: 100;
@@ -2519,7 +2519,7 @@ table.shopping-cart-table tr td {
     padding-top: 55px;
     padding-bottom: 52px;
     background: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     color: #fff;
     font-size: 18px;
     line-height: 18px;
@@ -2540,7 +2540,7 @@ table.shopping-cart-table tr td {
     display: block;
     padding-top: 40px;
     padding-bottom: 37px;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 18px;
     line-height: 18px;
     font-weight: 100;
@@ -2625,7 +2625,7 @@ table.shopping-cart-table tr td {
 .quote p {
     margin-bottom: 24px;
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 21px;
     line-height: 32px;
     font-weight: 100;
@@ -2685,7 +2685,7 @@ table.shopping-cart-table tr td {
 .testimonial-2 p {
     margin-bottom: 24px;
     color: #4b4e53;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 21px;
     line-height: 32px;
     font-weight: 100;
@@ -2749,7 +2749,7 @@ table.shopping-cart-table tr td {
 }
 
 .member h3 {
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 16px;
     line-height: 24px;
     font-weight: 700;
@@ -2837,7 +2837,7 @@ table.shopping-cart-table tr td {
     padding-top: 100px;
     padding-bottom: 100px;
     text-align: center;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 36px;
     line-height: 36px;
     font-weight: 100;
@@ -2894,7 +2894,7 @@ table.shopping-cart-table tr td {
 
 .post-prev-title h3 {
     margin: 0;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 16px;
     line-height: 26px;
     font-weight: 600;
@@ -3943,7 +3943,7 @@ select.input-border {
 .widget h4 {
     margin-top: 16px;
     margin-bottom: 21px;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 18px;
     font-weight: bold;
 }
@@ -4339,7 +4339,7 @@ nav ul {
     margin-bottom: 3px;
     padding-bottom: 10px;
     text-transform: uppercase;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 300;
     color: #fff;
     border-bottom: 1px solid #585a5f;
@@ -4905,7 +4905,7 @@ header.affix .logo .logo-img {
     cursor: pointer;
     padding-right: 15px;
     padding-top: 8px;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 300;
 }
 
@@ -4924,7 +4924,7 @@ header.affix .logo .logo-img {
 }
 
 #mc-embedded-subscribe {
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: normal;
     margin-bottom: 30px;
 }
@@ -4941,7 +4941,7 @@ header.affix .logo .logo-img {
     margin-right: 80px;
     margin-bottom: 30px;
     font-size: 21px;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: lighter;
     border-color: #4b4e53;
 }
@@ -5149,7 +5149,7 @@ blockquote {
 blockquote,
 blockquote p {
     font-style: normal;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 21px;
     line-height: 32px;
     color: #4b4e53;
@@ -5163,7 +5163,7 @@ blockquote p {
 blockquote .small,
 blockquote footer,
 blockquote small {
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 13px;
     color: #7e8082;
     font-style: normal;
@@ -5346,7 +5346,7 @@ blockquote.custom-blockquote:before {
     display: inline;
     margin-top: 7px;
     font-size: 16px;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     color: #4b4e53;
 }
 
@@ -5365,7 +5365,7 @@ blockquote.custom-blockquote:before {
 .error404-text {
     text-align: center;
     color: #5a5a5a;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 30px;
     line-height: 30px;
     margin-bottom: 25px;
@@ -5375,7 +5375,7 @@ blockquote.custom-blockquote:before {
 .error404-numb {
     color: #909090;
     text-align: center;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 250px;
     line-height: 250px;
     margin-bottom: 40px;
@@ -5384,7 +5384,7 @@ blockquote.custom-blockquote:before {
 
 .error404-main-text h2 {
     text-align: center;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 30px;
     line-height: 30px;
     padding-bottom: 15px;
@@ -5420,7 +5420,7 @@ blockquote.custom-blockquote:before {
 
 .countdown-amount {
     display: block;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 300;
     font-size: 40px;
     line-height: 50px;
@@ -5589,7 +5589,7 @@ blockquote.custom-blockquote:before {
 }
 
 .demo-total-icons {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 300;
     font-size: 50px;
     line-height: 50px;
@@ -6383,7 +6383,7 @@ ul#portfolio {
 h1,
 h2,
 h3 {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: normal;
     color: #4b4e53;
     margin: 0;
@@ -8597,7 +8597,7 @@ a:focus {
 }
 
 .highlight {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 300;
     color: #4b4e53;
     display: block;
@@ -8614,7 +8614,7 @@ a:focus {
 
 .milestone-details {
     margin-left: 70px;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 300;
     font-size: 18px;
 }
@@ -8654,7 +8654,7 @@ h3.ui-accordion-header:first-child {
 
 .ui-accordion-header {
     font-size: 14px;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     line-height: 50px;
     margin: 0;
     background-color: #eee;
@@ -8755,7 +8755,7 @@ h3.ui-accordion-header:first-child {
 
 .accord-2 .panel-title {
     font-size: 14px;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 .accord-2 .panel-group .panel,
@@ -9015,7 +9015,7 @@ h3.ui-accordion-header:first-child {
 .price-4,
 .cents-4,
 .place2-4 {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     display: inline-block;
     color: #4b4e53;
 }
@@ -9185,12 +9185,12 @@ h3.ui-accordion-header:first-child {
     font-size: 24px;
     line-height: 40px;
     font-weight: normal;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 .month {
     color: #808080;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 14px;
     background-color: #fff;
     padding: 14px 0 14px 0;
@@ -9281,7 +9281,7 @@ a.button.medium.price-button {
     font-size: 24px;
     line-height: 49px;
     font-weight: normal;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 .price-col-main p.white {
@@ -9331,7 +9331,7 @@ a.button.medium.price-button {
 .currency,
 .price,
 .cents {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     display: inline-block;
     color: #fff;
 }
@@ -9365,7 +9365,7 @@ a.button.medium.price-button {
 .cents-cont {
     width: 5px;
     font-size: 20px;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 .place {
@@ -9387,7 +9387,7 @@ a.button.medium.price-button {
     display: inline-block;
     height: 13px;
     width: 35px;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 14px;
     color: #bcbcbc;
 }
@@ -9402,7 +9402,7 @@ a.button.medium.price-button {
     font-size: 30px;
     line-height: 40px;
     font-weight: normal;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 .pricing-table-2 ul {
@@ -9482,7 +9482,7 @@ h1.pt-col-main {
 
 .cd-timeline-start-caption,
 .cd-timeline-start-date {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 .cd-timeline-start-caption {
@@ -9714,7 +9714,7 @@ h1.pt-col-main {
 .cd-date-year,
 .cd-date-month {
     display: block;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-weight: 400;
 }
 
@@ -10373,7 +10373,7 @@ h2.portfolio-timeline-title {
         float: left;
         line-height: 16px;
         padding: 0;
-        font-family: 'Lato', Arial, Helvetica, sans-serif;
+        font-family: Helvetica, sans-serif;
         font-weight: 300;
         font-size: 14px;
         padding-top: 23px;
@@ -10507,7 +10507,7 @@ h2.portfolio-timeline-title {
         padding: 15px 9px 15px 27px !important;
         position: relative;
         text-transform: none;
-        font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+        font-family: Helvetica, sans-serif;
         font-size: 13px;
         color: #d3d3d3;
         border: none;
@@ -12199,7 +12199,7 @@ screen and (max-height: 300px) {
     padding: 15px 9px 15px 27px !important;
     position: relative;
     text-transform: none;
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 13px;
     color: #d3d3d3;
 }
@@ -13494,7 +13494,7 @@ ul#flickr-sfeeds li a img {
 }
 
 .font-lato {
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
 }
 
 
@@ -13513,7 +13513,7 @@ ul#flickr-sfeeds li a img {
 
 .fes2-title-45 {
     color: #404347;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 45px;
     line-height: 50px;
     font-weight: 300;
@@ -13521,7 +13521,7 @@ ul#flickr-sfeeds li a img {
 
 .fes2-text-cont {
     margin-top: 30px;
-    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     font-size: 16px;
     line-height: 25px;
     font-weight: 300;
@@ -13630,7 +13630,7 @@ ul#flickr-sfeeds li a img {
 .font-open-sans,
 #main-menu.font-open-sans .navbar .nav li a,
 #main-menu.font-open-sans .megamenu .title {
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif !important;
+    font-family: Helvetica, sans-serif !important;
 }
 
 .font-poppins,
@@ -14527,4 +14527,24 @@ screen and (max-width:736px) and (orientation:landscape) {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.my-3 {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+.overlay-bg {
+    background: black;
+    opacity: 65%;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0%;
+    left: 0%;
+}
+
+.font-white.norm-16-wide.hide-0-736.sm-mb-50.relative {
+    padding: 0px 180px;
+    margin: 66px 25px;
 }
