@@ -168,6 +168,10 @@ Site: https://themeforest.net/user/abcgomel/portfolio
 
 /* #PRELOADER  ============================================== */
 
+html {
+    scroll-behavior: smooth;
+}
+
 
 /* This only works with JavaScript, 
 if it's not present, don't show loader */
